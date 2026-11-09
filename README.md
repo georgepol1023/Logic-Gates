@@ -37,6 +37,7 @@ You can create logic gates, inputs, and outputs, connect them visually, and simu
 
 ---
 
-## Live Demo
+## Run it
 
-You can host this project using **GitHub Pages**:
+No install or build step is needed: clone the repo and open `index.html` in a browser. React,
+Tailwind and the icons load from a CDN, so you need an internet connection.
